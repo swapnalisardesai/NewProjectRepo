@@ -1,5 +1,5 @@
 //<,>,<=,>=
-//!=,== it can compare on only value a variable
+//!=,== it can compare on only value of variable
 //=== ,!== it can compare on value and type of a variable
 
 
